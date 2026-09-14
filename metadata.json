@@ -1,0 +1,6 @@
+{
+  "name": "Smart Parking Management System",
+  "description": "A comprehensive, professional smart parking management platform featuring slot booking, payment-first reservation, automated overstay time billing, vehicle release gates, customer profiles, and staff/admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
